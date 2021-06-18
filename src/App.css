@@ -1,0 +1,15 @@
+.grids-column {
+  display: flex;
+  width: 50vh;
+  margin: auto;
+}
+
+.grid {
+  min-height: 85px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  border: 1px solid black;
+}
